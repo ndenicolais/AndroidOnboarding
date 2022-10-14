@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Onboarding</string>
 
-    <string name="review">Review</string>
+    <string name="review">Review Onboarding</string>
 
     // Button
     <string name="skip">Skip</string>

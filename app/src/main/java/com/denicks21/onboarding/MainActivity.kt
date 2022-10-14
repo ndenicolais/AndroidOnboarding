@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
             setUpindicator(0)
             mSLideViewPager!!.addOnPageChangeListener(viewListener)
         } else {
-            // If the app has been opened then go to "Main"
+            // If the app has been opened then go to "HomeActivity"
             startActivity(Intent(applicationContext, HomeActivity::class.java))
             finish()
         }

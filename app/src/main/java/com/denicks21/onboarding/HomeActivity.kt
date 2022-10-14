@@ -12,7 +12,7 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
-        // Go to "Review"
+        // Go to "ReviewActivity"
         buttonTutorial = findViewById(R.id.btnReview)
         buttonTutorial.setOnClickListener {
             startActivity(Intent(this, ReviewActivity::class.java))
