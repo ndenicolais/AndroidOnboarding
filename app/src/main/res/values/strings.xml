@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    <string name="review">Review</string>
+
+    // Button
+    <string name="skip">Skip</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+    // Title
+    <string name="title_one">ONE</string>
+    <string name="title_two">TWO</string>
+    <string name="title_three">THREE</string>
+    <string name="title_four">FOUR</string>
+    <string name="title_five">FIVE</string>
+    <string name="title_six">SIX</string>
+    <string name="title_seven">SEVEN</string>
+    <string name="title_eight">EIGHT</string>
+    <string name="title_nine">NINE</string>
+
+    //Description
+    <string name="desc_one">First description
+    </string>
+    <string name="desc_two">Two description
+    </string>
+    <string name="desc_three">Three description
+    </string>
+    <string name="desc_four">Four description
+    </string>
+    <string name="desc_five">Five description
+    </string>
+    <string name="desc_six">Six description
+    </string>
+    <string name="desc_seven">Seven description
+    </string>
+    <string name="desc_eight">Eight description
+    </string>
+    <string name="desc_nine">Nine description
+    </string>
+</resources>
