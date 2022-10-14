@@ -3,5 +3,5 @@
 
 ## Screen preview
 <p float="left">
-<img height="500em" src="" title="Onboarding's screen preview">
+<img height="500em" src="OnboardingScreen.png" title="Onboarding's screen preview">
 </p>
